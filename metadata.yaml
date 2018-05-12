@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7772
     wikipedia: http://en.wikipedia.org/wiki/Anna_Brownell_Jameson
 description: Part I. Ethics and character -- Part II. Literature and art
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39680#A-Commonplace-Book-of-Thoughts-Memories-and-Fancies.2nd-ed.
 gutenberg_issued: '2012-05-12'
 gutenberg_type: Text
 identifiers:
